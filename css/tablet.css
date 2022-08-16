@@ -1,0 +1,138 @@
+
+/*-------------------------------header------------------------------*/
+
+header {
+    width: 100%;
+    max-width: 981px;
+    padding: 0 40px;
+    margin: 36px auto;
+}
+.header_logo {
+    display: inline-block;
+}
+
+/*------------------------------section intro----------------------------------*/
+
+.intro_content {
+    padding:  240px 10px 209px;
+}
+.intro_logo {
+    display: none;
+}
+h1 {
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 63px;
+    padding-bottom: 28px
+}
+.intro_paragraf {
+    margin: 0 auto 33px;
+    font-size: 24px;
+    line-height: 24px;
+}
+.button {
+    padding: 12px 18.5px 11px 19.5px;
+}
+
+/*---------------------------section how works-----------------------*/
+
+.how_works {
+    width: 100%;
+    padding: 94px 0;
+}
+.how_works_content {
+    padding: 35px 0 0;
+    flex-flow: row wrap;
+    gap: 20px;
+}
+.how_works_item {
+    width: fit-content;
+    max-width: 300px;
+}
+.how_works_item_paragraf {
+    width: 83%;
+}
+
+/*------------------------section meet-----------------------------*/
+
+.meet {
+    padding: 0 20px 94px;
+}
+.meet_items {
+    padding: 34px 22px 40px;
+    flex-flow: row wrap;
+    gap: 20px;
+    max-width: 540px;
+}
+.meet_button {
+    padding: 12px 19px 11px 24px;
+}
+
+/*--------------------------------section ideas----------------------------*/
+
+.ideas {
+    padding-bottom: 94px;
+}
+.ideas_heading {
+    padding: 0 10px 35px;
+}
+.ideas_conteiner {
+    flex-flow: row wrap;
+    gap: 20px;
+}
+.idea {
+    max-width: fit-content;
+}
+
+
+/*-----------------------section for create-------------------*/
+
+.for_create {
+    padding: 0 20px 100px;
+}
+.for_create_heading {
+    padding-bottom: 50px;
+}
+.for_create_paragraf {
+    padding-bottom: 32px;
+}
+.for_create_input {
+    margin: 0 10px 0 0;
+    padding: 14px 118px 10px 15px;
+}
+.for_create_button {
+    padding: 12px 25px 11px 30px;
+}
+
+/*---------------------------------------footer----------------------------*/
+
+footer {
+    padding: 36px 40px 20px;
+}
+.footer_conteiner {
+    max-width: 941px;
+    flex-flow: row wrap;
+    align-items:flex-start;
+    gap: 56px;
+}
+.footer_logo {
+    flex: 3 3 0;
+}
+.footer_sub_section {
+    flex: 3 3 0;
+}
+.footer_sub_section_2 {
+    flex: 5 5 0;
+}
+.footer_heading {
+    text-align: left;
+    padding-bottom: 11px;
+}
+.footer_items ul {
+    display:inline-block;
+}
+.footer_desiner {
+    padding-top: 2px;
+}
+
+

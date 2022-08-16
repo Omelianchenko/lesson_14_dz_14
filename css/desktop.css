@@ -1,0 +1,19 @@
+.meet_items {
+    max-width: fit-content;
+    gap: 15px;
+}
+.meet_item {
+    width: 221px;
+}
+.ideas_conteiner {
+    max-width: 940px;
+    margin: 0 auto;
+}
+.idea_1 h3, .idea_2 h3 {
+    width: 240px;
+}
+.footer_sub_section {
+    flex: 3 3 0;
+}
+
+
